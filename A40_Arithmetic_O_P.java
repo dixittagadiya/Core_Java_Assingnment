@@ -2,7 +2,7 @@ package Modul_2_core_java;
 
 import java.util.Scanner;
 
-public class A40_Arithmetic_O_P {
+public class A040_Arithmetic_O_P {
 
 	public static void main(String[] args) {
 		
